@@ -1,1 +1,1 @@
-hird party baking API integration using Rest Template
+Third party baking API integration using Rest Template
